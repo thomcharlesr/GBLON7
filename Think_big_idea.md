@@ -1,4 +1,5 @@
-![alt text](Thinkbigidea.png)
+![Uploading image.png…]()
+
 **1. Idea Description:**
 The project is titled "SmartShop: AI-Powered Facial Recognition for Loss Prevention."
 
