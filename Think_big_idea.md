@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img src="https://imageio.forbes.com/specials-images/imageserve/1139859542/Facial-Recognition-Technology/960x0.jpg?format=jpg&width=1440">
 
 **1. Idea Description:**
 The project is titled "SmartShop: AI-Powered Facial Recognition for Loss Prevention."
