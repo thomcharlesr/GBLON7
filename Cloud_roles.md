@@ -5,7 +5,7 @@
 Role Overview:**
 A Database Architect is responsible for designing, building, and maintaining database systems that store and organize data. This role requires understanding the flow and management of large amounts of data, ensuring data integrity, security, and optimal performance.
 
-Technical Requirements:
+*Technical Requirements:*
 
 Database Management Systems (DBMS): Expertise in SQL, NoSQL, MySQL, PostgreSQL, MongoDB, and other database platforms.
 Cloud Platforms: Knowledge of cloud-based databases like AWS RDS, Google Cloud Spanner, and Microsoft Azure SQL Database.
