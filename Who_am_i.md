@@ -1,4 +1,4 @@
-![alt text](whoami.png)
+<img src="https://images.squarespace-cdn.com/content/v1/56a53bd4a2bab8bce6c4f4f3/1524495624898-L8K3GIBD3W4MPJN33HOB/Flt+Images+Who+am+I.png?format=2500w" height=300>
 **1. Some of the things I especially like to do are:**
 *Exploring new technologies and figuring out how they can be applied to solve real-world problems. I enjoy working on projects that require me to use both my analytical and creative skills to design and implement solutions.*
 **2. I’m very good at:**
